@@ -39,7 +39,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Merit
 - Thesis: “Terrestrial water loading across coastal Bangladesh: investigation of spatial variability.”
-  * Main platform used: MATLAB
+  *Main platform used: MATLAB*
 - Modelling programs:
   * SMS
   * Mike Zero
@@ -52,8 +52,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### BSc Earth Sciences: Universiteit van Amsterdam, 09/2011 - 08/2014
 
 - Merit (7.2 / 10)
-- Thesis: “The effect of waste dumping on water quality in Pallikaranai”
-  * Conducted in Chennai, India 
+- Thesis: “The effect of waste dumping on water quality in Pallikaranai” *(Conducted in Chennai, India)*
 - Modelling programs:
   * ArcGIS
   * MATLAB
