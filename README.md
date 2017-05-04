@@ -9,9 +9,7 @@ A Makers Academy student planning on become a full-stack developer. Before Maker
 
 #### Resourceful
 
-- Experience
-- Achievements
-- Evidence
+- MSc UCL
 
 
 #### Resilient
@@ -95,5 +93,5 @@ A Makers Academy student planning on become a full-stack developer. Before Maker
 #### Writing
 
 - Short film: Son of Man
-- Play: Encore *(performed at Camden Fringe)*
+- Play: Encore [*(performed at Camden Fringe)*](http://viewsfromthegods.co.uk/encore.shtml)
 - Creative Writing course, City University New York
