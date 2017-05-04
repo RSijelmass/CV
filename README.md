@@ -94,6 +94,6 @@ A Makers Academy student planning on become a full-stack developer. Before Maker
 
 #### Writing
 
-- Short film: *Son of Man*
-- Play, performed on Camden Fringe: *Encore*
+- Short film: Son of Man
+- Play: Encore *(performed at Camden Fringe)*
 - Creative Writing course, City University New York
