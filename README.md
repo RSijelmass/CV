@@ -1,6 +1,6 @@
 ## Rita Sijelmass,
 
-NAV BAR: Linkedin, Skills, Education, Professional Experience
+NAV BAR: [*Linkedin*](https://www.linkedin.com/in/rita-sijelmass/), [*Skills*](https://github.com/RSijelmass/CV#experience), [*Education*](https://github.com/RSijelmass/CV#Education), [*Professional Experience*](https://github.com/RSijelmass/CV#Professional%Experience)
 
 A Full-Stack developer with a passion for science. I have finished both a BSc in Earth Sciences and an MSc in Geoscience, where I decided to mostly focus on Hydrology – the research of water. I felt it was important to understand the planet we live on. Now, I converted to the techworld as that will help me understand the future. I strive to make it a full-time passion in a place where I can be a contribution to [what the future will hold]. 
 
