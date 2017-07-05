@@ -2,8 +2,12 @@
 
 *A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.*
 
-A Makers Academy student planning on become a full-stack developer. Before Makers, I have finished both a BSc in Earth Sciences and an MSc in Geoscience, where I decided to mostly focus on Hydrology – the research of water. I felt it was important to understand the planet we live on. Now, I converted to the techworld as that will help me understand the future. Hopefully, I’ll be able to make it a full-time passion while being a contribution to the planet I got to cherish so deeply. 
+A Makers Academy student planning on become a full-stack developer. Before Makers, I have finished both a BSc in Earth Sciences and an MSc in Geoscience, where I decided to mostly focus on Hydrology – the research of water. I felt it was important to understand the planet we live on. Now, I converted to the techworld as that will help me understand the future. I strive to make it a full-time passion while being a contribution to the planet I got to cherish so deeply. 
 
+Makers Academy is a 16-week software-development bootcamp, [...experience...]. A lot of focus is places on agile working, pair programming, and test driven
+development.
+
+Technologies: Ruby, JavaScript (Node.js), MATLAB, HTML / CSS
 
 ## Skills
 
@@ -32,16 +36,21 @@ A Makers Academy student planning on become a full-stack developer. Before Maker
 
 - Tutoring high school kids to pass their exams (Physics / Chemistry / Maths). One job I enjoyed, was tutoring kids that were about to do their final high school exams (comparable to A-levels in UK). This was intense, as it was 1-on-1 tutoring, but extremely rewarding. Getting the children to do their homework, and to get to their reward (passing) that is seemingly far away, is challenging, but very much worth it.
 
+#### Languages
+- English, Dutch (fluent)
+- French, German, Moroccan (basic)
+
 ## Education
 
 #### Makers Academy (05/2017 - 08/2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC 
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Ruby, Rails, JavaScript, Node.js
 - Rspec, Jasmine, Mocha
+- HTML / CSS
 
 #### MSc Geoscience: University College London (09/2015 - 09/2016)
 
@@ -80,18 +89,6 @@ A Makers Academy student planning on become a full-stack developer. Before Maker
 **Gladiator Sports** (2007 - 2011)    
 *Cashier Paintball Centre*  
 
-## Other Qualifications
+## Hobbies
 
-#### Languages
-
-- English (fluent)
-- Dutch (fluent)
-- French (basic)
-- German (basic)
-- Moroccan (basic)
-
-#### Writing
-
-- Short film: Son of Man
-- Play: Encore [*(performed at Camden Fringe)*](http://viewsfromthegods.co.uk/encore.shtml)
-- Creative Writing course, City University New York
+- Writing: written a short film and a play [*(performed at Camden Fringe)*](http://viewsfromthegods.co.uk/encore.shtml)
