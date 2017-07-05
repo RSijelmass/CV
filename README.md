@@ -5,7 +5,7 @@ NAV BAR: [Linkedin](https://www.linkedin.com/in/rita-sijelmass/), [Skills](https
 A Full-Stack developer with a passion for science. I have finished both a BSc in Earth Sciences and an MSc in Geoscience, where I decided to mostly focus on Hydrology – the research of water. I felt it was important to understand the planet we live on. Now, I converted to the techworld as that will help me understand the future. I strive to make it a full-time passion in a place where I can be a contribution to [what the future will hold]. 
 
 The path to becoming a developer started when touching modelling / programming tools throughout my academic [...], where we touched on technologies as MATLAB, ArcGIS,
-R, MikeZero and SMS. It really took off when starting a 16-week long intense bootcamp called Makers Academy; [...experience...]. A lot of focus is places on agile working, pair programming, and test driven development.
+R, MikeZero and SMS. It really took off when starting a 16-week long intense bootcamp called [Makers Academy](http://www.makersacademy.com); [...experience...]. A lot of focus is places on agile working, pair programming, and test driven development.
 
 There are two things that will make me come to work every morning with a smile: the problems at hand to solve, and the impact those solutions will bring. 
 
