@@ -1,13 +1,18 @@
-## Rita Sijelmass
+## Rita Sijelmass,
 
-*A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.*
+NAV BAR: Linkedin, Skills, Education, Professional Experience
 
-A Makers Academy student planning on become a full-stack developer. Before Makers, I have finished both a BSc in Earth Sciences and an MSc in Geoscience, where I decided to mostly focus on Hydrology – the research of water. I felt it was important to understand the planet we live on. Now, I converted to the techworld as that will help me understand the future. I strive to make it a full-time passion while being a contribution to the planet I got to cherish so deeply. 
+A Full-Stack developer with a passion for science. I have finished both a BSc in Earth Sciences and an MSc in Geoscience, where I decided to mostly focus on Hydrology – the research of water. I felt it was important to understand the planet we live on. Now, I converted to the techworld as that will help me understand the future. I strive to make it a full-time passion in a place where I can be a contribution to [what the future will hold]. 
 
-Makers Academy is a 16-week software-development bootcamp, [...experience...]. A lot of focus is places on agile working, pair programming, and test driven
-development.
+The path to becoming a developer started when touching modelling / programming tools throughout my academic [...], where we touched on technologies as MATLAB, ArcGIS,
+R, MikeZero and SMS. It really took off when starting a 16-week long intense bootcamp called Makers Academy; [...experience...]. A lot of focus is places on agile working, pair programming, and test driven development.
 
-Technologies: Ruby, JavaScript (Node.js), MATLAB, HTML / CSS
+There are two things that will make me come to work every morning with a smile: the problems at hand to solve, and the impact those solutions will bring. 
+
+Technologies: Ruby, JavaScript, HTML / CSS 
+Touched upon: MATLAB, ArcGIS, MikeZero, SMS, Node.js
+
+## Projects
 
 ## Skills
 
@@ -56,10 +61,7 @@ Technologies: Ruby, JavaScript (Node.js), MATLAB, HTML / CSS
 
 - Grade: Merit
 - Thesis: “Terrestrial water loading across coastal Bangladesh: investigation of spatial variability.”
-- Main programs used:
-  * SMS
-  * Mike Zero
-  * MATLAB
+- Technologies used: SMS, Mike Zero, MATLAB
  
 #### Exchange: Hunter College City University New York (01/2015 - 06/2015)
 
@@ -70,10 +72,7 @@ Technologies: Ruby, JavaScript (Node.js), MATLAB, HTML / CSS
 
 - Grade: Merit (7.2 / 10)
 - Thesis: “The effect of waste dumping on water quality in Pallikaranai” *(Conducted in Chennai, India)*
-- Main programs used:
-  * ArcGIS
-  * MATLAB
-  * R
+- Technologies used: ArcGIS, MATLAB, R
 
 ## Work Experience
 
