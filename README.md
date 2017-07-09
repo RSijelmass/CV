@@ -14,6 +14,11 @@ Touched upon: MATLAB, ArcGIS, MikeZero, SMS, Node.js
 
 ## Projects
 
+Project | When | Technologies | Live?
+------- | ---- | ------------ | ------
+[the Acebook](https://github.com/RSijelmass/acebook) (facebook copy, created a fake news API) | Week 8 | Ruby on Rails | ...
+[the SunTiger](...) (search engine) | Week 9 | Ruby | ...
+
 ## Skills
 
 #### Resourceful
