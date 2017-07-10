@@ -14,37 +14,30 @@ Touched upon: MATLAB, ArcGIS, MikeZero, SMS, Node.js
 
 ## Projects
 
-Project | When | Technologies | Live?
-------- | ---- | ------------ | ------
-[the Acebook](https://github.com/RSijelmass/acebook) (facebook copy, created a fake news API) | Week 8 | Ruby on Rails | ...
-[the SunTiger](...) (search engine) | Week 9 | Ruby | ...
+Project | Description | When | Technologies | Live?
+------- | ----------- | ---- | ------------ | ------
+[the Acebook](https://github.com/RSijelmass/acebook) | Facebook copy. Created a fake news API, flagging whenever a link is considered as fake news by Politifact or Opensources | Week 8 | Ruby on Rails | ...
+[the SunTiger](https://github.com/RSijelmass/search_engine) | Search engine built from scratch, with the only exception of Nokogiri (a gem parsing html webpages)  | Week 9 | Ruby | n/a
 
 ## Skills
 
-#### Resourceful
-
-- MSc UCL
-
-
 #### Resilient
 
-- Working at Olapic
+- Working at Olapic. Being in a sales environment is 
 
 #### Agile
 
-- Thesis Research in India. I conducted the research for my bachelor’s thesis in Chennai, India to analyse water contamination in a major wetland. Here, nothing went as planned; they took away my previously given rights to take samples in the wetland, and half of the equipment in the laboratory that was promised me didn’t function. I managed to fulfil my research and extended it nonetheless.
+- Thesis Research in India. I conducted the research for my bachelor’s thesis in Chennai, India to analyse water contamination in a major wetland. Here, nothing went as planned; they took away my previously given rights to take samples in the wetland, and half of the equipment in the laboratory that was promised me didn’t function. I managed to fulfil my research and extended it with new data and a new research approach nonetheless.
 
 #### Drive / Determination
-
-- Working more than full-time as a waitress. My boss was heavily understaffed after a few major illnesses, and as we knew each other personally I worked the shifts of multiple people to keep his company afloat. I did not do this because of a money incentive; everyone knows waiting tables is not one the most financially rewarding jobs. I did it because I owed it to my employer, and loyalty is of utmost importance. 
 
 - Volunteering at an animal shelter: animals that have been saved from the slaughterhouse, or any other cruel environment, are cared for at the F.R.I.E.N.D. Animal Sanctuary, just outside of London. Here, I’ve spent numerous days in the weekends doing various tasks; building and/or cleaning sheds, feeding the animals, planting new crop, etc.
 
 #### Communication
 
-- Director of a play. As a director, nothing is more important than communication; you are putting together your vision, where your canvas consists of living people. To bring across what you want to see and how you want to see it, from something as grand as set-design and choreography to little details as a hand-gesture or the twitch of an eye, can only be done if you know how to bring across your message to the [...] ADD LINK TO REVIEW!
+- Director of a play. As a director, nothing is more important than communication; you are putting together your vision, where your canvas consists of living people. [*(Link to review)*](http://viewsfromthegods.co.uk/encore.shtml)
 
-- Tutoring high school kids to pass their exams (Physics / Chemistry / Maths). One job I enjoyed, was tutoring kids that were about to do their final high school exams (comparable to A-levels in UK). This was intense, as it was 1-on-1 tutoring, but extremely rewarding. Getting the children to do their homework, and to get to their reward (passing) that is seemingly far away, is challenging, but very much worth it.
+- Tutoring high school kids to pass their final high school exams (Physics / Chemistry / Maths). This was intense, as it was 1-on-1 tutoring, but extremely rewarding. Getting the children to do their homework, and to get to their reward (passing) that is seemingly far away, is challenging, but very much worth it.
 
 #### Languages
 - English, Dutch (fluent)
@@ -54,13 +47,11 @@ Project | When | Technologies | Live?
 
 #### Makers Academy (05/2017 - 08/2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC 
-- Software Craftsmanship
 - Ruby, Rails, JavaScript, Node.js
-- Rspec, Jasmine, Mocha
+- Rspec, Jasmine, Mocha, Zombie
 - HTML / CSS
+- Agile working
 
 #### MSc Geoscience: University College London (09/2015 - 09/2016)
 
@@ -95,4 +86,4 @@ Project | When | Technologies | Live?
 
 ## Hobbies
 
-- Writing: written a short film and a play [*(performed at Camden Fringe)*](http://viewsfromthegods.co.uk/encore.shtml)
+- Writing, Climbing, Jazz, Theatre, Travelling
