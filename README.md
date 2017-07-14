@@ -1,13 +1,10 @@
 ## Rita Sijelmass,
 
-NAV BAR: [Linkedin](https://www.linkedin.com/in/rita-sijelmass/), [Skills](https://github.com/RSijelmass/CV#skills), [Education](https://github.com/RSijelmass/CV#education), [Work Experience](https://github.com/RSijelmass/CV#work-experience)
+[Linkedin](https://www.linkedin.com/in/rita-sijelmass/) | [Skills](https://github.com/RSijelmass/CV#skills) | [Education](https://github.com/RSijelmass/CV#education) | [Work Experience](https://github.com/RSijelmass/CV#work-experience)
 
-A Full-Stack developer with a passion for science. I have finished both a BSc in Earth Sciences and an MSc in Geoscience, where I decided to mostly focus on Hydrology – the research of water. I felt it was important to understand the planet we live on. Now, I converted to the techworld as that will help me understand the future. I strive to make it a full-time passion in a place where I can be a contribution to [what the future will hold]. 
+A Full-Stack developer with a passion for science. I have finished both a BSc in Earth Sciences and an MSc in Geoscience, where I decided to mostly focus on Hydrology – the research of water. I felt it was important to understand the planet we live on. Now I converted to the techworld as that will help me understand the future; I strive to make it a full-time passion in a place where I can be both be challenged and a contribution. At the end of the day, two things make me come to work every morning with a smile: the problems at hand to solve, and the impact those solutions will bring. 
 
-The path to becoming a developer started when touching modelling / programming tools throughout my academic [...], where we touched on technologies as MATLAB, ArcGIS,
-R, MikeZero and SMS. It really took off when starting a 16-week long intense bootcamp called [Makers Academy](http://www.makersacademy.com); [...experience...]. A lot of focus is places on agile working, pair programming, and test driven development.
-
-There are two things that will make me come to work every morning with a smile: the problems at hand to solve, and the impact those solutions will bring. 
+The path to becoming a developer started when touching modelling / programming tools throughout my academic career, where we touched on technologies as MATLAB, ArcGIS, R, MikeZero and SMS. The developing train really took off, however, after starting a 16-week intense bootcamp called [Makers Academy](http://www.makersacademy.com). A lot of focus is placed here on agile working, pair programming, and test driven development.
 
 Technologies: Ruby, JavaScript, HTML / CSS 
 Touched upon: MATLAB, ArcGIS, MikeZero, SMS, Node.js
@@ -16,28 +13,36 @@ Touched upon: MATLAB, ArcGIS, MikeZero, SMS, Node.js
 
 Project | Description | When | Technologies | Live?
 ------- | ----------- | ---- | ------------ | ------
-[the Acebook](https://github.com/RSijelmass/acebook) | Facebook copy. Created a fake news API, flagging whenever a link is considered as fake news by Politifact or Opensources | Week 8 | Ruby on Rails | ...
-[the SunTiger](https://github.com/RSijelmass/search_engine) | Search engine built from scratch, with the only exception of Nokogiri (a gem parsing html webpages)  | Week 9 | Ruby | n/a
+[VeBnB](https://github.com/RSijelmass/vebnb) | A copy of Airbnb, the first project using Node | Week6 | JavaScript, Node.js, Express, Mocha / Zombie | n/a
+[Notes](https://github.com/RSijelmass/Notes) | A one-page app written in vanilla JS and a self-built testing framework | Week7 (2days) | JavaScript | n/a
+[the Acebook](https://github.com/RSijelmass/acebook) | Facebook copy. Created a fake news API, flagging whenever a link is considered as fake news by Politifact or Opensources | Week8 | Ruby on Rails / Rspec | ...
+[the SunTiger](https://github.com/RSijelmass/search_engine) | Search engine built from scratch, with the only exception of Nokogiri (a gem parsing html webpages)  | Week9 | Ruby / Rspec | n/a
 
 ## Skills
 
 #### Resilient
 
-- Working at Olapic. Being in a sales environment is 
+**Working in a sales environment**
+Being in a sales environment is 
 
 #### Agile
 
-- Thesis Research in India. I conducted the research for my bachelor’s thesis in Chennai, India to analyse water contamination in a major wetland. Here, nothing went as planned; they took away my previously given rights to take samples in the wetland, and half of the equipment in the laboratory that was promised me didn’t function. I managed to fulfil my research and extended it with new data and a new research approach nonetheless.
+**Thesis Research in India. **
+I conducted the research for my bachelor’s thesis in Chennai, India to analyse water contamination in a major wetland. Here, nothing went as planned; they took away my previously given rights to take samples in the wetland, and half of the equipment in the laboratory that was promised me didn’t function. I managed to fulfil my research and extended it with new data and a new research approach nonetheless.
 
 #### Drive / Determination
 
-- Volunteering at an animal shelter: animals that have been saved from the slaughterhouse, or any other cruel environment, are cared for at the F.R.I.E.N.D. Animal Sanctuary, just outside of London. Here, I’ve spent numerous days in the weekends doing various tasks; building and/or cleaning sheds, feeding the animals, planting new crop, etc.
+** Volunteering at an animal shelter **
+Animals that have been saved from the slaughterhouse, or any other cruel environment, are cared for at the F.R.I.E.N.D. Animal Sanctuary just outside of London. Here, I’ve spent numerous days in the weekends doing various tasks; building and/or cleaning sheds, feeding the animals, planting new crop, etc. 
 
 #### Communication
 
-- Director of a play. As a director, nothing is more important than communication; you are putting together your vision, where your canvas consists of living people. [*(Link to review)*](http://viewsfromthegods.co.uk/encore.shtml)
+** Director of a play **
+As a director, nothing is more important than communication; you are putting together your vision, where your canvas consists of living people. It is necessary to both steer the ship yet give space for the actors to flourish their creative expression.
+[*(Link to review)*](http://viewsfromthegods.co.uk/encore.shtml)
 
-- Tutoring high school kids to pass their final high school exams (Physics / Chemistry / Maths). This was intense, as it was 1-on-1 tutoring, but extremely rewarding. Getting the children to do their homework, and to get to their reward (passing) that is seemingly far away, is challenging, but very much worth it.
+** Tutoring high school kids **
+Tutoring teenagers to pass their final high school exams (Physics / Chemistry / Maths). This was intense, as it was 1-on-1 tutoring, but extremely rewarding. Getting the students to do their homework and aim for a seemingly distant reward is challenging, but very much worth it.
 
 #### Languages
 - English, Dutch (fluent)
@@ -84,6 +89,6 @@ Project | Description | When | Technologies | Live?
 **Gladiator Sports** (2007 - 2011)    
 *Cashier Paintball Centre*  
 
-## Hobbies
+## Interests
 
-- Writing, Climbing, Jazz, Theatre, Travelling
+- Writing, Climbing, Jazz, Theatre, Travelling, Artificial Intelligence, Geology
