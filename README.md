@@ -1,4 +1,4 @@
-## Rita Sijelmass,
+## Rita Sijelmass
 
 [Linkedin](https://www.linkedin.com/in/rita-sijelmass/) | [Skills](https://github.com/RSijelmass/CV#skills) | [Education](https://github.com/RSijelmass/CV#education) | [Work Experience](https://github.com/RSijelmass/CV#work-experience)
 
@@ -20,28 +20,33 @@ Project | Description | When | Technologies | Live?
 
 ## Skills
 
-#### Resilient
+### Resilient
 
 **Working in a sales environment**
+
 Being in a sales environment is 
 
-#### Agile
+### Agile
 
-**Thesis Research in India. **
+**Thesis Research in India.**
+
 I conducted the research for my bachelor’s thesis in Chennai, India to analyse water contamination in a major wetland. Here, nothing went as planned; they took away my previously given rights to take samples in the wetland, and half of the equipment in the laboratory that was promised me didn’t function. I managed to fulfil my research and extended it with new data and a new research approach nonetheless.
 
-#### Drive / Determination
+### Drive / Determination
 
-** Volunteering at an animal shelter **
+**Volunteering at an animal shelter**
+
 Animals that have been saved from the slaughterhouse, or any other cruel environment, are cared for at the F.R.I.E.N.D. Animal Sanctuary just outside of London. Here, I’ve spent numerous days in the weekends doing various tasks; building and/or cleaning sheds, feeding the animals, planting new crop, etc. 
 
-#### Communication
+### Communication
 
-** Director of a play **
+**Director of a play**
+
 As a director, nothing is more important than communication; you are putting together your vision, where your canvas consists of living people. It is necessary to both steer the ship yet give space for the actors to flourish their creative expression.
 [*(Link to review)*](http://viewsfromthegods.co.uk/encore.shtml)
 
-** Tutoring high school kids **
+**Tutoring high school kids**
+
 Tutoring teenagers to pass their final high school exams (Physics / Chemistry / Maths). This was intense, as it was 1-on-1 tutoring, but extremely rewarding. Getting the students to do their homework and aim for a seemingly distant reward is challenging, but very much worth it.
 
 #### Languages
