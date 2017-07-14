@@ -6,8 +6,8 @@ A Full-Stack developer with a passion for science. I have finished both a BSc in
 
 The path to becoming a developer started when touching modelling / programming tools throughout my academic career, where we touched on technologies as MATLAB, ArcGIS, R, MikeZero and SMS. The developing train really took off, however, after starting a 16-week intense bootcamp called [Makers Academy](http://www.makersacademy.com). A lot of focus is placed here on agile working, pair programming, and test driven development.
 
-Technologies: Ruby, JavaScript, HTML / CSS 
-Touched upon: MATLAB, ArcGIS, MikeZero, SMS, Node.js
+- Technologies: Ruby, JavaScript, HTML / CSS 
+- Touched upon: MATLAB, ArcGIS, MikeZero, SMS, Node.js
 
 ## Projects
 
