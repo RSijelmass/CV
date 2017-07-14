@@ -24,7 +24,7 @@ Project | Description | When | Technologies | Live?
 
 **Working in a sales environment**
 
-Being in a sales environment is 
+Being in a sales environment, if anything, builds resilience. Hearing a lot of no's, but having the proper mind-set to brush it off and assume the next call or conversation will be a yes. I sold mainly to the Dutch market, and appreciated the no-nonsense mind-set they often take on.
 
 ### Agile
 
