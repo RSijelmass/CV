@@ -6,10 +6,13 @@ A Full-Stack developer with a passion for science. I have finished both a BSc in
 
 The path to becoming a developer started when touching modelling / programming tools throughout my academic career, where we touched on technologies as MATLAB, ArcGIS, R, MikeZero and SMS. The developing train really took off, however, after starting a 16-week intense bootcamp called [Makers Academy](http://www.makersacademy.com). A lot of focus is placed here on agile working, pair programming, and test driven development.
 
+*limit yourself with this, remove*
 - Main technologies: Ruby, JavaScript, HTML / CSS 
 - Touched upon: MATLAB, ArcGIS, MikeZero, SMS, Node.js
 
 ## Projects
+
+*include links, if no links include link to short video of use*
 
 Project | Description | When | Technologies | Live?
 ------- | ----------- | ---- | ------------ | ------
@@ -24,7 +27,7 @@ Project | Description | When | Technologies | Live?
 
 **Working in a sales environment**
 
-Being in a sales environment, if anything, builds resilience. Hearing a lot of no's, but having the proper mind-set to brush it off and assume the next call or conversation will be a yes. I sold mainly to the Dutch market, and appreciated the no-nonsense mind-set they often take on.
+Being in a sales environment, if anything, builds resilience. Hearing a lot of people saying no, but having the proper mind-set to brush it off and assume the next call or conversation will be a yes. I sold mainly to the Dutch market, and appreciated the no-nonsense mind-set they often take on.
 
 ### Agile
 
@@ -56,7 +59,7 @@ Tutoring teenagers to pass their final high school exams (Physics / Chemistry / 
 ## Education
 
 #### Makers Academy (05/2017 - 08/2017)
-
+*include some info, personalise with your experience*
 - OOP, TDD, SOLID, MVC 
 - Ruby, Rails, JavaScript, Node.js
 - Rspec, Jasmine, Mocha, Zombie
