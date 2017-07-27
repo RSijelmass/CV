@@ -13,7 +13,6 @@ The path to becoming a developer started when touching modelling / programming t
 Project | Description | When | Technologies | Live?
 ------- | ----------- | ---- | ------------ | ------
 [VeBnB](https://github.com/RSijelmass/vebnb) | A copy of Airbnb, the first project using Node | Week6 | JavaScript, Node.js, Express, Mocha / Zombie | n/a
-[Notes](https://github.com/RSijelmass/Notes) | A one-page app written in vanilla JS and a self-built testing framework | Week7 (2days) | JavaScript | n/a
 [the Acebook](https://github.com/RSijelmass/acebook) | Facebook copy. Created a fake news API, flagging whenever a link is considered as fake news by Politifact or Opensources | Week8 | Ruby on Rails / Rspec | [Link](https://theacebook.herokuapp.com)
 [the SunTiger](https://github.com/RSijelmass/search_engine) | Search engine built from scratch, with the only exception of Nokogiri (a gem parsing html webpages)  | Week9 | Ruby / Rspec | n/a
 [deBLOCracy](https://github.com/RSijelmass/votingchain) | Voting app built using blockchain, within the Ethereum framework | Week11 Week12 | Solidity, truffle, web3.js, Node.js | n/a
