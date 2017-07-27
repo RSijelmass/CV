@@ -6,10 +6,6 @@ A Full-Stack developer with a passion for science. I have finished both a BSc in
 
 The path to becoming a developer started when touching modelling / programming tools throughout my academic career, where we touched on technologies as MATLAB, ArcGIS, R, MikeZero and SMS. The developing train really took off, however, after starting a 16-week intense bootcamp called [Makers Academy](http://www.makersacademy.com). A lot of focus is placed here on agile working, pair programming, and test driven development.
 
-*limit yourself with this, remove*
-- Main technologies: Ruby, JavaScript, HTML / CSS 
-- Touched upon: MATLAB, ArcGIS, MikeZero, SMS, Node.js
-
 ## Projects
 
 *include links, if no links include link to short video of use*
@@ -20,6 +16,7 @@ Project | Description | When | Technologies | Live?
 [Notes](https://github.com/RSijelmass/Notes) | A one-page app written in vanilla JS and a self-built testing framework | Week7 (2days) | JavaScript | n/a
 [the Acebook](https://github.com/RSijelmass/acebook) | Facebook copy. Created a fake news API, flagging whenever a link is considered as fake news by Politifact or Opensources | Week8 | Ruby on Rails / Rspec | [Link](https://theacebook.herokuapp.com)
 [the SunTiger](https://github.com/RSijelmass/search_engine) | Search engine built from scratch, with the only exception of Nokogiri (a gem parsing html webpages)  | Week9 | Ruby / Rspec | n/a
+[deBLOCracy](https://github.com/RSijelmass/votingchain) | Voting app built using blockchain, within the Ethereum framework | Week11 Week12 | Solidity, truffle, web3.js, Node.js | n/a
 
 ## Skills
 
