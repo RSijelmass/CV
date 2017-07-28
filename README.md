@@ -2,9 +2,9 @@
 
 [Linkedin](https://www.linkedin.com/in/rita-sijelmass/) | [Skills](https://github.com/RSijelmass/CV#skills) | [Education](https://github.com/RSijelmass/CV#education) | [Work Experience](https://github.com/RSijelmass/CV#work-experience)
 
-A Full-Stack developer with a passion for science. I have finished both a BSc in Earth Sciences and an MSc in Geoscience, where I decided to mostly focus on Hydrology – the research of water. I felt it was important to understand the planet we live on. Now I converted to the techworld as that will help me understand the future; I strive to make it a full-time passion in a place where I can be both be challenged and a contribution. At the end of the day, two things make me come to work every morning with a smile: the problems at hand to solve, and the impact those solutions will bring. 
+A Full-Stack developer with a passion for science and everything tech. I have finished both a BSc in Earth Sciences and an MSc in Geoscience, where I decided to mostly focus on Hydrology – the research of water. I felt it was important to understand the planet we live on. Now I converted to the techworld as that will help me understand the future; I strive to make it a full-time passion in a place where I can be both be challenged and a contribution. At the end of the day, two things make me come to work every morning with a smile: the problems at hand to solve, and the impact those solutions will bring. 
 
-The path to becoming a developer started when touching modelling / programming tools throughout my academic career, where we touched on technologies as MATLAB, ArcGIS, R, MikeZero and SMS. The developing train really took off, however, after starting a 16-week intense bootcamp called [Makers Academy](http://www.makersacademy.com). A lot of focus is placed here on agile working, pair programming, and test driven development.
+The path to becoming a developer started when touching upon modelling / programming tools throughout my academic career, where we came across technologies as MATLAB, ArcGIS, R, MikeZero and SMS. The developing train really took off, however, after starting a 16-week intense bootcamp called [Makers Academy](http://www.makersacademy.com). A lot of focus is placed here on agile working, pair programming, and test driven development.
 
 ## Projects
 
@@ -25,11 +25,11 @@ Project | Description | When | Technologies | Live?
 
 Being in a sales environment, if anything, builds resilience. Hearing a lot of people saying no, but having the proper mind-set to brush it off and assume the next call or conversation will be a yes. I sold mainly to the Dutch market, and appreciated the no-nonsense mind-set they often take on.
 
-### Agile
+### Flexiblek
 
 **Thesis Research in India.**
 
-I conducted the research for my bachelor’s thesis in Chennai, India to analyse water contamination in a major wetland. Here, nothing went as planned; they took away my previously given rights to take samples in the wetland, and half of the equipment in the laboratory that was promised me didn’t function. I managed to fulfil my research and extended it with new data and a new research approach nonetheless.
+I conducted the research for my bachelor’s thesis in Chennai, India to analyse water contamination in a major wetland. Here, nothing went as planned; they took away my previously given rights to take samples in the wetland, and half of the equipment in the laboratory didn’t function. I managed to fulfil my research and extended it with new data and a new research approach nonetheless.
 
 ### Drive / Determination
 
@@ -55,11 +55,14 @@ Tutoring teenagers to pass their final high school exams (Physics / Chemistry / 
 ## Education
 
 #### Makers Academy (05/2017 - 08/2017)
-*include some info, personalise with your experience*
-- OOP, TDD, SOLID, MVC 
-- Ruby, Rails, JavaScript, Node.js
-- Rspec, Jasmine, Mocha, Zombie
-- HTML / CSS
+- **TDD** is a major focus at Makers; to the point where untested code won't even be considered with reviews. Writing tests for code is something that was, before starting at MA, completely
+  new to me. I can thank them for my internal alarm bells ringing when coming across / writing untested or badly tested code. 
+- **SOLID** is another acronym that Makers is a massive fan of; and after learning that SOLID is not just a state materials can reside in, I fully appreciate why they are.
+- Makers, more than anything, has not only taught me to just write working code - more than that, they have taught me to nurture my skills carefully as any craftsman does that loves their
+  skills and **sees their code as their own work of art**.
+- **Agile Working** is something that I haven't had the chance of experiencing before Makers, but now software development and agile are hand in hand
+- Languages used: Ruby, Rails, JavaScript, Node.js, Solidity, HTML / CSS
+- Testing Frameworks: Rspec, Jasmine, Mocha / Chai, Zombie, Truffle
 - Agile working
 
 #### MSc Geoscience: University College London (09/2015 - 09/2016)
