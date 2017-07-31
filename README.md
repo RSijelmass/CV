@@ -23,7 +23,7 @@ Project | Description | When | Technologies | Live?
 
 Being in a sales environment, if anything, builds resilience. Hearing a lot of people saying no, but having the proper mind-set to brush it off and assume the next call or conversation will be a yes. I sold mainly to the Dutch market, and appreciated the no-nonsense mind-set they often take on.
 
-### Flexiblek
+### Flexible
 
 **Thesis Research in India.**
 
