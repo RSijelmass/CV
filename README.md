@@ -2,13 +2,11 @@
 
 [Linkedin](https://www.linkedin.com/in/rita-sijelmass/) | [Skills](https://github.com/RSijelmass/CV#skills) | [Education](https://github.com/RSijelmass/CV#education) | [Work Experience](https://github.com/RSijelmass/CV#work-experience)
 
-A Full-Stack developer with a passion for science and everything tech. I have finished both a BSc in Earth Sciences and an MSc in Geoscience, where I decided to mostly focus on Hydrology – the research of water. I felt it was important to understand the planet we live on. Now I converted to the techworld as that will help me understand the future; I strive to make it a full-time passion in a place where I can be both be challenged and a contribution. At the end of the day, two things make me come to work every morning with a smile: the problems at hand to solve, and the impact those solutions will bring. 
+A Full-Stack developer with a passion for science, tech and anything that sparks up my brain really. I have finished both a BSc in Earth Sciences and an MSc in Geoscience, where I decided to mostly focus on Hydrology – the research of water. I felt it was important to understand the planet we live on. Now I converted to the techworld as that will help me understand the future; I strive to make it a full-time passion in a place where I can be both be challenged and a contribution. At the end of the day, two things make me come to work every morning with a smile: the problems at hand to solve, and the impact those solutions will bring. 
 
-The path to becoming a developer started when touching upon modelling / programming tools throughout my academic career, where we came across technologies as MATLAB, ArcGIS, R, MikeZero and SMS. The developing train really took off, however, after starting a 16-week intense bootcamp called [Makers Academy](http://www.makersacademy.com). A lot of focus is placed here on agile working, pair programming, and test driven development.
+The path to becoming a developer started when touching upon modelling / programming tools throughout my academic career, where we came across technologies as MATLAB, ArcGIS, R, MikeZero and SMS. The developing train really took off, however, after starting a 16-week intense bootcamp called [Makers Academy](http://www.makersacademy.com). A lot of focus is placed here on agile working, pair programming, and test driven development. If you'll ask me what Makers Academy has taught me, I'll respond saying that above anything they have taught me to see my code not just as a passive skill to own; but instead as an art form that needs to be worked on every day.
 
 ## Projects
-
-*include links, if no links include link to short video of use*
 
 Project | Description | When | Technologies | Live?
 ------- | ----------- | ---- | ------------ | ------
@@ -60,10 +58,11 @@ Tutoring teenagers to pass their final high school exams (Physics / Chemistry / 
 - **SOLID** is another acronym that Makers is a massive fan of; and after learning that SOLID is not just a state materials can reside in, I fully appreciate why they are.
 - Makers, more than anything, has not only taught me to just write working code - more than that, they have taught me to nurture my skills carefully as any craftsman does that loves their
   skills and **sees their code as their own work of art**.
-- **Agile Working** is something that I haven't had the chance of experiencing before Makers, but now software development and agile are hand in hand
+- **Agile Working** is something that I haven't had the chance of experiencing before Makers, but now software development and agile are terms that sound almost synonymous. Building your projects up from MVP, having constant communication channels as stand-ups and retros, and not being scared to diverge the initial plan if it comes to it.
+
 - Languages used: Ruby, Rails, JavaScript, Node.js, Solidity, HTML / CSS
 - Testing Frameworks: Rspec, Jasmine, Mocha / Chai, Zombie, Truffle
-- Agile working
+
 
 #### MSc Geoscience: University College London (09/2015 - 09/2016)
 
