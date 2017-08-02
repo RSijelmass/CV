@@ -10,10 +10,12 @@ The path to becoming a developer started when touching upon modelling / programm
 
 Project | Description | When | Technologies | Live?
 ------- | ----------- | ---- | ------------ | ------
-[VeBnB](https://github.com/RSijelmass/vebnb) | A copy of Airbnb, the first project using Node | Week6 | JavaScript, Node.js, Express, Mocha / Zombie | [Demo](https://vimeo.com/228070469)
-[the Acebook](https://github.com/RSijelmass/acebook) | Facebook copy. Created a fake news API, flagging whenever a link is considered as fake news by Politifact or Opensources | Week8 | Ruby on Rails / Rspec | [Link](https://theacebook.herokuapp.com)
-[the SunTiger](https://github.com/RSijelmass/search_engine) | Search engine built from scratch, with the only exception of Nokogiri (a gem parsing html webpages)  | Week9 | Ruby / Rspec | [Demo](https://vimeo.com/227817356)
 [deBLOCracy](https://github.com/RSijelmass/votingchain) | Voting app built using blockchain, within the Ethereum framework | Week11 Week12 | Solidity, truffle, web3.js, Node.js | [Demo](https://vimeo.com/227889051)
+[the SunTiger](https://github.com/RSijelmass/search_engine) | Search engine built from scratch, with the only exception of Nokogiri (a gem parsing html webpages)  | Week9 | Ruby / Rspec | [Demo](https://vimeo.com/227817356)
+[the Acebook](https://github.com/RSijelmass/acebook) | Facebook copy. Created a fake news API, flagging whenever a link is considered as fake news by Politifact or Opensources | Week8 | Ruby on Rails / Rspec | [Link](https://theacebook.herokuapp.com)
+[VeBnB](https://github.com/RSijelmass/vebnb) | A copy of Airbnb, the first project using Node | Week6 | JavaScript, Node.js, Express, Mocha / Zombie | [Demo](https://vimeo.com/228070469)
+
+
 
 ## Skills
 
