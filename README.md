@@ -100,3 +100,6 @@ Tutoring teenagers to pass their final high school exams (Physics / Chemistry / 
 ## Interests
 
 - Writing, Climbing, Jazz, Theatre, Travelling, Artificial Intelligence, Geology
+
+## Contact Me
+Email: R.Sijelmass@gmail.com
